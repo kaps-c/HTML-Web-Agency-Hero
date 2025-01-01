@@ -1,0 +1,29 @@
+body {
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+}
+
+#hero {
+    font-family: "Open Sans", serif;
+    color: #020202;
+    max-width: 40%;
+    padding: 8px 0px 0px 24px;
+}
+
+#title {
+    font-weight: 900;
+}
+
+.underline {
+    border-bottom: 4px solid #0ea5e9;
+}
+
+#cta-btn {
+    background-color: #0ea5e9;
+    border: none;
+    padding: 14px 20px;
+    margin: 8px 0 0 0;
+    font-family: "Open Sans", serif;
+    font-weight: 600;
+    color: white;
+}
